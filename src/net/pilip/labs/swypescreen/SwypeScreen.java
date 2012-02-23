@@ -1,9 +1,9 @@
-package net.pilip.labs.panscreen;
+package net.pilip.labs.swypescreen;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class PanScreen extends Activity
+public class SwypeScreen extends Activity
 {
     /** Called when the activity is first created. */
     @Override
