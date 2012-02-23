@@ -1,9 +1,7 @@
-[Philippe Roussille]: https://github.com/pilipLabs/SwipeScreen
-[SwypeScreen]: https://github.com/pilipLabs/SwipeScreen
 
-#[SwypeScreen]
+#[SwipeScreen]
 
-[SwypeScreen] is a new home replacment that aim to display all you need in your home.
+[SwipeScreen] is a new home replacment that aim to display all you need in your home.
 
 Sings to be in the home:
 
@@ -13,3 +11,6 @@ Sings to be in the home:
 - Calendar
 
 And some plugins like Google reader, facebook, twitter, google +
+
+[Philippe Roussille]: https://github.com/pilipLabs/SwipeScreen
+[SwipeScreen]: https://github.com/pilipLabs/SwipeScreen

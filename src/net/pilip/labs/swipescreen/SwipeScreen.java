@@ -1,9 +1,9 @@
-package net.pilip.labs.swypescreen;
+package net.pilip.labs.swipescreen;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class SwypeScreen extends Activity
+public class SwipeScreen extends Activity
 {
     /** Called when the activity is first created. */
     @Override
