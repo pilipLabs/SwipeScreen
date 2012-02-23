@@ -3,7 +3,7 @@
 
 [SwipeScreen] is a new home replacment that aim to display all you need in your home.
 
-Sings to be in the home:
+Things to be in the home:
 
 - Phone history
 - Mails
