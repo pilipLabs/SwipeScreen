@@ -1,5 +1,5 @@
-[Philippe Roussille]: https://github.com/pilipLabs/PanScreen
-[SwypeScreen]: https://github.com/pilipLabs/PanScreen
+[Philippe Roussille]: https://github.com/pilipLabs/SwipeScreen
+[SwypeScreen]: https://github.com/pilipLabs/SwipeScreen
 
 #[SwypeScreen]
 
